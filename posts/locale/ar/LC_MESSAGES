@@ -1,0 +1,25 @@
+msgid "Hello, World!"
+msgstr "مرحبًا بالعالم!"
+
+msgid "Post"
+msgstr "منشور"
+
+msgid "Like"
+msgstr "إعجاب"
+
+msgid "Comment"
+msgstr "تعليق"
+
+msgid "Create Post"
+msgstr "إنشاء منشور"
+
+msgid "Edit Post"
+msgstr "تعديل المنشور"
+
+msgid "Delete Post"
+msgstr "حذف المنشور"
+
+msgid "Posted by"
+msgstr "نشر بواسطة"
+
+# Add more translations as needed

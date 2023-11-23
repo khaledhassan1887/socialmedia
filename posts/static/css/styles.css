@@ -1,0 +1,86 @@
+/* styles.css */
+
+/* Reset some default styles */
+body, h1, h2, p, ul {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Header styles */
+.header {
+    background-color: #3b5998;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+/* Navigation styles */
+.navbar {
+    background-color: #4267B2;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+/* Main content container */
+.container {
+    max-width: 960px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Post styles */
+.post {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.post-content {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+/* Button styles */
+.button {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #45a049;
+}
+
+/* Form styles */
+.form-group {
+    margin-bottom: 15px;
+}
+
+.input-field {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+/* Footer styles */
+.footer {
+    background-color: #f4f4f4;
+    padding: 10px 0;
+    text-align: center;
+    border-top: 1px solid #ddd;
+}

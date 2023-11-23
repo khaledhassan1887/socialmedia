@@ -1,0 +1,4 @@
+msgid "Hello, World!"
+msgstr "مرحبًا بالعالم!"
+
+# Add more translations as needed
